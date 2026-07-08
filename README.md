@@ -46,10 +46,6 @@ Original dataset is  from the [Layoffs Dataset on Kaggle](https://www.kaggle.com
 
 Click on [Power BI Dashboard](./layoffs_analysis.pdf) to view the dashboard.
 
-```markdown
-![Dashboard Overview](path/to/screenshot.png)
-```
-
 ## How to Run
 
 1. Clone this repository
