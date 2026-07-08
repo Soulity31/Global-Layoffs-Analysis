@@ -51,7 +51,7 @@ Click on [Power BI Dashboard](./layoffs_analysis.pdf) to view the dashboard.
 1. Clone this repository
 2. Install dependencies:
    ```
-   pip install pandas numpy matplotlib seaborn openpyxl
+   pip install pandas numpy matplotlib seaborn
    ```
 3. Open `layoffs_analysis.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab
 4. Run cells top to bottom
