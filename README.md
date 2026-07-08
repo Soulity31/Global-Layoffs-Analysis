@@ -1,4 +1,4 @@
-# Global Layoffs Analysis (2020–2023)
+# Global Layoffs Analysis
 
 A data analysis project exploring global layoffs across companies, industries, and countries between 2020 and 2023 — built with Python (Pandas, NumPy, Matplotlib, Seaborn) and visualized further in an interactive Power BI dashboard. 
 
