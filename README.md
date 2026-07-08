@@ -33,9 +33,10 @@ This project studies real-world layoffs data to understand how global economic s
 ## Project Structure
 
 ```
-├── layoffs_analysis.ipynb     # Full EDA and analysis notebook
-├── layoffs_cleaned.xlsx       # Cleaned dataset used for Power BI
-├── layoffs_report.pbix        # Interactive Power BI dashboard
+├──layoffs.csv                 #dataset
+├── layoffs_data_analysis.ipynb     # Full EDA and analysis notebook
+├── layoffs_analysis.pdf       # Power BI dashboard PDF
+├── layoffs_analysis.pbix        # Interactive Power BI dashboard
 └── README.md
 ```
 
