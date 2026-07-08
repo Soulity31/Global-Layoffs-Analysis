@@ -6,9 +6,6 @@ A data analysis project exploring global layoffs across companies, industries, a
 
 This project studies real-world layoffs data to understand how global economic shifts — from pandemic disruption to the post-pandemic tech correction — affected companies across industries, countries, and funding stages. The analysis moves from data cleaning and exploratory data analysis (EDA) in Python through to a full interactive Power BI report.
 
-csv used - Used for the project (modified) - ['dataset'](./layoffs.csv)
-Original dataset is  from the [Layoffs Dataset on Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022) uploaded by Swapnil Tripathi.
-
 ## Key Questions Explored
 
 - Which country had the most layoffs?
@@ -59,7 +56,10 @@ Click on [Power BI Dashboard](./layoffs_analysis.pdf) to view the dashboard.
 
 ## Data Source
 
-Dataset covers global company layoffs from 2020–2023, including company name, industry, country, layoff counts, date, funding stage, and total funds raised.
+Dataset covers global company layoffs from 2020–2023, including company name, industry, country, layoff counts, date, funding stage, and total funds raised. 
+
+csv used - Used for the project (modified) - ['dataset'](./layoffs.csv)
+Original dataset is  from the [Layoffs Dataset on Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022) uploaded by Swapnil Tripathi.
 
 ## Author
 
